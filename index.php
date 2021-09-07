@@ -11,5 +11,8 @@
     <?php
         echo "HOI";
     ?>
+    <footer>
+        <p>dit is mijn footer.</p>
+    </footer>
 </body>
 </html>
